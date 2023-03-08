@@ -1,0 +1,8 @@
+# Exclude any IDE specific files
+.gradle
+.idea
+build
+gradle
+/gossipsub.iml
+/gradlew
+/gradlew.bat
