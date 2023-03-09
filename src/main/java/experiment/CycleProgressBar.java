@@ -18,7 +18,7 @@ public class CycleProgressBar implements Control {
 
     private ProgressBar progressBar;
 
-    public CycleProgressBar(String prefix) {
+    public CycleProgressBar() {
         int totalCycles = Configuration.getInt(ConfigurationParams.TOTAL_CYCLES);
 
         // Build the progress bar
