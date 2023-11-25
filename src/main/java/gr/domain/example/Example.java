@@ -1,4 +1,4 @@
-package gr.antonov.example;
+package gr.domain.example;
 
 public class Example {
     public static void main(String[] args) {

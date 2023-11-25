@@ -1,4 +1,4 @@
-package common;
+package gr.domain.common;
 
 public class ConfigurationParams {
 
@@ -11,8 +11,5 @@ public class ConfigurationParams {
     public static final String VIEW_LENGTH = "VIEW_LENGTH";
     public static final String TOTAL_CYCLES = "TOTAL_CYCLES";
     public static final String STEP = ".step";
-
-    // The number of phases in each cycle
-    public static final String NUMBER_OF_PHASES = "NUMBER_OF_PHASES";
 
 }

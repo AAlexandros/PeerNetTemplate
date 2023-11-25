@@ -1,4 +1,4 @@
-package gr.antonov.example
+package gr.domain.example
 
 import spock.lang.Specification
 

@@ -1,6 +1,6 @@
-package experiment;
+package gr.domain.experiment;
 
-import common.ConfigurationParams;
+import gr.domain.common.ConfigurationParams;
 import me.tongfei.progressbar.ProgressBar;
 import me.tongfei.progressbar.ProgressBarBuilder;
 import me.tongfei.progressbar.ProgressBarStyle;
