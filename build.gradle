@@ -27,6 +27,7 @@ dependencies {
     implementation fileTree(dir: 'libs', include: '*.jar')
     // Lombok helps reduce boilerplate code with the usage of annotations
     implementation 'org.projectlombok:lombok:1.18.22'
+    annotationProcessor 'org.projectlombok:lombok:1.18.34'
 
     test {
         useJUnitPlatform()
